@@ -44,7 +44,7 @@ Input  >>> madam, tacocat, utrecht
 Output >>> True, True, False
 
 ## Bonus Question 1
-<a link= "https://www.hackerrank.com/challenges/find-digits/problem"> HACKERRANK: FIND DIGITS <\a>
+[HACKERRANK: FIND DIGITS](https://www.hackerrank.com/challenges/find-digits/problem)
 
 ## Bonus Question 2
-HACKERRANK: CAPITALIZE
+[HACKERRANK: CAPITALIZE](https://www.hackerrank.com/challenges/capitalize/problem)
