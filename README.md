@@ -25,6 +25,7 @@ gives the output of the sorted words.
 Example:
 
 Input  >>> green-red-yellow-black-white
+
 Output >>> black-green-red-white-yellow 
 
 ## 4-unique_list.py
@@ -33,6 +34,7 @@ Write a function that filters all the unique(unrepeated) elements of a given lis
 Example:
 
 Function call: unique_list([1,2,3,3,3,3,4,5,5])
+
 Output       : [1, 2, 3, 4, 5]
 
 ## 5-equal_reverse.py
@@ -41,6 +43,7 @@ Write a function that controls the given inputs whether they are equal to their 
 Example:
 
 Input  >>> madam, tacocat, utrecht 
+
 Output >>> True, True, False
 
 ## Bonus Question 1
