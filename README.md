@@ -42,3 +42,9 @@ Example:
 
 Input  >>> madam, tacocat, utrecht 
 Output >>> True, True, False
+
+## Bonus Question 1
+<a link= "https://www.hackerrank.com/challenges/find-digits/problem">HACKERRANK: FIND DIGITS<\a>
+
+## Bonus Question 2
+HACKERRANK: CAPITALIZE
