@@ -29,8 +29,7 @@ alphabetical()
 '''
 
 x=lambda n: n
-print(x(list('-'.join(sorted([n for n in input('Please enter your alphabetical order list by adding hyphen icon(-) between them :').split('-')]))))) # You can arrenge your list from here
-
+print(x('-'.join(sorted([n for n in input('Please enter your alphabetical order list by adding hyphen icon(-) between them :').split('-')]))))
 
 ### All Rights Reserved ###
 
